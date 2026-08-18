@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-9zengk.hartawin-pro.online/sitemap.xml
